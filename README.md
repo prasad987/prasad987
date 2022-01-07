@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prasad987
+- 👋 Hi, I’m @Prasad
 - 👀 I’m interested in Hacking.
 - 🌱 I’m currently learning Computer Science and Engineering.
 - 💞️ I’m looking to collaborate on Cyber security projects.
