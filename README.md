@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Prasad
+- 👋 Hi, I’m @Prasad.
 - 👀 I’m interested in Hacking.
 - 🌱 I’m currently learning Computer Science and Engineering.
 - 💞️ I’m looking to collaborate on Cyber security projects.
-- 📫 How to reach me mail me on: prasadmudhole401@gmail.com
+- 📫 How to reach me mail me on: prasadmudhole401@gmail.com.
+- Awesome Badge
 
 <!---
 prasad987/prasad987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
