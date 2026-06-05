@@ -13,4 +13,4 @@
 prasad987/prasad987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Co-authored-by: HrutikKumar <hrutiknaik30@gmail.com.com>
+
